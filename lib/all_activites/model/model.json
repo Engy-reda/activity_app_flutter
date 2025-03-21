@@ -1,0 +1,70 @@
+{
+    "activityId": "id",
+    "activitytype": "cn_Meeting enum[]",
+    "subject": "Subject max 1 line",
+    "priority": "pr_High  enum[]",
+    "activityDate": "2024-04-19",
+    "               startDate": "2024-04-28",
+    "               endDate": "2024-04-28",
+    "content": "content",
+    "createByUserid": "id",
+    "               createByUserName": "Name",
+    "createByUserPicture": "CreateByUserPicture",
+    "handledByUserId": "id",
+    "handledByUserName": "Name",
+    "handledByUserPicture": "CreateByUserPicture",
+    "contentPicture": "ContentPicture",
+    "                cardCode": "CardCode",
+    "cardName": "CardName",
+    "itemCode": "ItemCode",
+    "itemName": "ItemCode",
+    "brandCode": "BrandCode",
+    "brandName": "BrandName",
+    "                 businessUnit": "BusinessUnit",
+    "docNum": "DocNum",
+    "docType": "DocType",
+    "docEntry": "156776",
+    "docCardName": "DocCardName",
+    "docDate": "DocDate",
+    "docDueDate": "2024-04-19",
+    "docTotal": "DocTotal",
+    "                  closed": false,
+    "closedRemark": "ClosedRemark",
+    "closeDate": "2024-04-19",
+    "reminder": true,
+    "activityWithUsers": [
+        {
+            "withUserId": "id",
+            "withUserName": "WithUserName",
+            "withUserPicture": "CreateByUserPicture",
+            "withUserDateAdded": "2024-04-19"
+        }
+    ],
+    "activityLikes": [
+        {
+            "activityLikeId": "id",
+            "activityLikeUserId": "UserId",
+            "activityLikeUserName": "UserName",
+            "activityLikeUserPicture": "UserPicture",
+            "activityLikeDateAdded": "2024-04-19"
+        }
+    ],
+    "activityComments": [
+        {
+            "commentId": "id",
+            "commentUserId": "UserId",
+            "commentUserName": "UserName",
+            "commentUserPicture": "UserPicture",
+            "commentDateAdded": "2024-04-19",
+            "commentLikes": [
+                {
+                    "commentLikeId": "id",
+                    "commentLikeUserId": "UserId",
+                    "commentLikeUserName": "UserName",
+                    "commentLikeUserPicture": "UserPicture",
+                    "commentLikeDateAdded": "2024-04-19"
+                }
+            ]
+        }
+    ]
+}
